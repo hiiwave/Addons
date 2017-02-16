@@ -67,6 +67,9 @@
 		},
 		{
 			"repo" : "fandolls/Addons"
+		},
+		{
+			"repo" : "spereira2017/ToS-Addons"
 		}
 	]
 }
